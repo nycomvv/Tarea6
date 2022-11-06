@@ -1,0 +1,21 @@
+{
+  "name": "tarea6",
+  "version": "1.0.0",
+  "description": "Tarea6",
+  "main": "index.js",
+  "scripts": {
+    "test": "comandos de prueba"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Tarea6"
+  },
+  "keywords": [
+    "Tarea6"
+  ],
+  "author": "Marcelo Vasquez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
