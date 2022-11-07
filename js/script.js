@@ -1,5 +1,4 @@
 let url = "https://pokeapi.co/api/v2/pokemon/";
-// let url2 = "https://pokeapi.co/a/v2/pokemon/";
 
 async function fetchcall() {
     try {
@@ -16,9 +15,8 @@ async function fetchcall() {
         try {
             // Axios
                 axios.get(pokemon_url).then(function(response2) {
-                let response3 = response2.data.sprites.front_default;
-                document.write(i + " " + pokemon_name + " ---> " + response2.data.sprites.front_default + "<br>");
-               // document.write(i + " " + pokemon_name + " ---> " + response3 + "<br>");
+                document.write(i + " " + pokemon_name +"<br>"
+                + "<img src="+response2.data.sprites.front_default+"><br>");
             });
         } catch (error) { console.log("Error Axios : " + error); }
     }
