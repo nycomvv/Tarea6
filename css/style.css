@@ -1,5 +1,5 @@
 body {
-  background-color: #5e4242;
+  background-color: #9b5050;
   justify-items: center;
   align-items: center;
   height: 100vh;
@@ -31,14 +31,16 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
-  background-color: rgb(37, 60, 49);
   border-radius: 8px;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon1 {
   grid-row-start: 2;
@@ -49,14 +51,16 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
-  background-color: rgb(37, 60, 49);
   border-radius: 8px;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon2 {
   grid-row-start: 2;
@@ -67,14 +71,16 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
-  background-color: rgb(37, 60, 49);
   border-radius: 8px;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon3 {
   grid-row-start: 2;
@@ -85,7 +91,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -93,6 +99,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon4 {
   grid-row-start: 2;
@@ -103,7 +112,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -111,6 +120,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon5 {
   grid-row-start: 3;
@@ -121,7 +133,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -129,6 +141,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon6 {
   grid-row-start: 3;
@@ -139,7 +154,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -147,6 +162,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon7 {
   grid-row-start: 3;
@@ -157,7 +175,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -165,6 +183,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon8 {
   grid-row-start: 3;
@@ -175,7 +196,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -183,6 +204,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon9 {
   grid-row-start: 3;
@@ -193,7 +217,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -201,6 +225,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon10 {
   grid-row-start: 4;
@@ -211,7 +238,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -219,6 +246,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon11 {
   grid-row-start: 4;
@@ -229,7 +259,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -237,6 +267,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon12 {
   grid-row-start: 4;
@@ -247,7 +280,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -255,6 +288,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon13 {
   grid-row-start: 4;
@@ -265,7 +301,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -273,6 +309,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon14 {
   grid-row-start: 4;
@@ -283,7 +322,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -291,6 +330,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon15 {
   grid-row-start: 5;
@@ -301,7 +343,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -309,6 +351,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon16 {
   grid-row-start: 5;
@@ -319,7 +364,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -327,6 +372,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon17 {
   grid-row-start: 5;
@@ -337,7 +385,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -345,6 +393,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon18 {
   grid-row-start: 5;
@@ -355,7 +406,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -363,6 +414,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 .card-container--pokemon19 {
   grid-row-start: 5;
@@ -373,7 +427,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  margin: 20px;
+  margin: 10px;
   color: #fff;
   background-color: rgb(37, 60, 49);
   border-radius: 8px;
@@ -381,6 +435,9 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
+  box-shadow: 7px 13px 37px rgba(18, 18, 18, 0.7);
+  background-color: rgb(37, 60, 49);
+  border: 2px solid rgb(31, 8, 80);
 }
 
 /*# sourceMappingURL=style.css.map */
